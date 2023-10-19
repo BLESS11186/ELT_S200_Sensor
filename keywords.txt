@@ -1,0 +1,27 @@
+# Syntax Coloring for ELT_S200 Library
+# Datatypes (KEYWORD1)
+S200	KEYWORD1
+
+# Methods and Functions (KEYWORD2)
+ppm	KEYWORD2
+begin	KEYWORD2
+get_co2	KEYWORD2
+sleep	KEYWORD2
+wakeup	KEYWORD2
+MCDL	KEYWORD2
+ACDL	KEYWORD2
+calibration_end	KEYWORD2
+clear	KEYWORD2
+uart_rate	KEYWORD2
+target_cal	KEYWORD2
+get_co2	KEYWORD2
+get_recal_stat	KEYWORD2
+connected	KEYWORD2
+get_error	KEYWORD2
+
+# Constants (LITERAL1)
+HW_MCDL_BIT	LITERAL1
+HW_ACDL_BIT	LITERAL1
+SW_MCDL_BIT	LITERAL1
+SW_ACDL_BIT	LITERAL1
+STAT_ERROR	LITERAL1
